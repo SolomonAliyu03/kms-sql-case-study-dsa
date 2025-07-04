@@ -74,7 +74,8 @@ In carrying out cleaning of data the following actions were performed;
 - Profit margin column was created
 
 
-### Analysis Report 
+## 📊 Dashboard Preview 
+
 
 
 
