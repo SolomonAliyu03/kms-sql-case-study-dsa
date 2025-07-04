@@ -58,9 +58,18 @@ Includes order details: sales, profit, region, shipping mode, customer segments,
 
 - Sales, Profit and segment analysis (PivotTables)
 
-- Dashboard development (Excel & Slicers)
+- Dashboard building (Excel & Slicers)
 
 - SQL query writing and logic building
+
+#### Data Cleaning and Preparation
+
+In carrying out cleaning of data the following actions were performed;
+
+- Data loading and transformation
+- Changing data types; dates, decimal, whole number
+- Removing unused or irrelevant columns ( row id, customer name, product containers) 
+
 
 
 
