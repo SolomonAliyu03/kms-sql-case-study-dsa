@@ -56,6 +56,8 @@ Includes order details: sales, profit, region, shipping mode, customer segments,
 
 - Data cleaning and Transformation (Power Query)
 
+
+
 - Sales, Profit and segment analysis (PivotTables)
 
 - Dashboard building (Excel & Slicers)
@@ -70,6 +72,9 @@ In carrying out cleaning of data the following actions were performed;
 - Changing data types; dates, decimal, whole number
 - Removing unused or irrelevant columns ( row id, customer name, product containers)
 - Profit margin column was created
+
+
+### Analysis Report 
 
 
 
