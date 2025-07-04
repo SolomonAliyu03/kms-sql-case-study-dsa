@@ -86,6 +86,10 @@ In carrying out cleaning of data the following actions were performed;
 
 
 
+![Screenshot 2025-07-04 225825](https://github.com/user-attachments/assets/5c823950-3c5f-4e95-8f8d-d1fea6cf0f23)
+
+
+
 
 
 
