@@ -68,7 +68,8 @@ In carrying out cleaning of data the following actions were performed;
 
 - Data loading and transformation
 - Changing data types; dates, decimal, whole number
-- Removing unused or irrelevant columns ( row id, customer name, product containers) 
+- Removing unused or irrelevant columns ( row id, customer name, product containers)
+- Profit margin column was created
 
 
 
