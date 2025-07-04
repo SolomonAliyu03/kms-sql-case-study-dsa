@@ -26,6 +26,16 @@ Includes order details: sales, profit, region, shipping mode, customer segments,
 
 - Deploy and showcase analysis for portfolio visibility
 
+### Tools & Technologies Used
+
+- Excel Power Query – Data cleaning, type conversion, and transformation
+
+- Excel PivotTables & Charts – Trend analysis, segmentation, profit breakdown
+
+- SQL – Query-driven insight generation and data modeling
+
+- GitHub – Documentation and project versioning
+
 
 
 
