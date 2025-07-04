@@ -36,6 +36,37 @@ Includes order details: sales, profit, region, shipping mode, customer segments,
 
 - GitHub – Documentation and project versioning
 
+###  Key Business Questions Answered
+
+- What are the top 5 most profitable products?
+
+- How do sales trends vary across months and regions?
+
+- Which customer segments yield the highest profit margins?
+
+- How does shipping mode impact overall shipping cost and efficiency?
+
+### Deliverables
+
+- Cleaned and transformed dataset (Power Query & Excel table)
+- PivotTable-based analysis with slicers and KPI summaries
+- Excel dashboard with slicers: Sales, Profit Margin, Segment, product category and Region-based visuals
+
+###  Skills Demonstrated
+
+- Data cleaning and Transformation (Power Query)
+
+- Sales, Profit and segment analysis (PivotTables)
+
+- Dashboard development (Excel & Slicers)
+
+- SQL query writing and logic building
+
+
+
+
+
+
 
 
 
