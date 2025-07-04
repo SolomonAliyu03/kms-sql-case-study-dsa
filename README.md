@@ -74,13 +74,15 @@ In carrying out cleaning of data the following actions were performed;
 - Profit margin column was created
 
 
-## 📊 Dashboard Preview 
+## 📊 Dashboard Preview
 
 
 
 
+![Screenshot 2025-07-04 223117](https://github.com/user-attachments/assets/44de7aba-927f-4133-a3ac-84c62f43e6e3)
 
 
+![Screenshot 2025-07-04 223308](https://github.com/user-attachments/assets/f416e205-0cb2-44fc-b398-647ac3a1d6f8)
 
 
 
